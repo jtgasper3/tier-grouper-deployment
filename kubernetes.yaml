@@ -1,4 +1,4 @@
-# This deployment configuration is still under development. Feel free to test and contribute back enhancments.
+# This deployment configuration is still under development. Feel free to test and contribute back enhancements.
 
 apiVersion: extensions/v1beta1
 kind: Deployment
